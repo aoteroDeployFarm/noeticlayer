@@ -7,7 +7,7 @@ date: "2026-05-29"
 series: "NoeticLayer Frameworks"
 status: "draft"
 type: "framework"
------------------
+---
 
 # Operational Trust Gradient
 
